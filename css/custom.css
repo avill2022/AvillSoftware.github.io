@@ -1,0 +1,9 @@
+.about {
+    margin-bottom: 3px;
+}
+.main-title small {
+    background: rgb(51, 51, 51);
+    color: rgb(255, 255, 255);
+    padding: 5px 13.5px;
+    font-size: 13px;
+}
